@@ -5,7 +5,7 @@
 <br>
 </p>
 <p align="center">
-<h1 align="center">💫I am Prince Sharma</h1>
+<h1 align="center">Hi👋,I'm Prince Sharma</h1>
 </p>
 
 <p align="center">
