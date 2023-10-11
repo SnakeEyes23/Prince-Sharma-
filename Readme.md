@@ -1,4 +1,13 @@
-# 💫 About Me:
+<p><img align="left" src="Flower.gif"
+    width="20%" style="display:inline;">
+<img align="right" src="Flower.gif"
+    width="20.5%" style="display:inline;">
+<br>
+</p>
+<p align="center">
+<h1 align="center">💫I am Prince Sharma</h1>
+</p>
+
 I'm currently working on phishing url detection.<br>I'm looking to collaborate for exciting projects.<br>I'm currently learing flutter,DSA.
 
 
