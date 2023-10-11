@@ -10,7 +10,7 @@
 
 <p align="center">
 <hr> &emsp;&emsp;
-<a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=1000&color=C0188A&vCenter=true&multiline=true&random=false&width=800&height=150&lines=%F0%9F%8C%9FI'm+Web+Developer+%F0%9F%93%B1;I'm+currently+phishing+url+detection.;I'm+looking+to+collaborate+on+exciting+projects.%F0%9F%A4%A9;I'm+currently+learning+Flutter.%F0%9F%98%8E+%E2%9C%A8" alt="Typing SVG" /></a></p>
+<a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=1000&color=C0188A&vCenter=true&multiline=true&random=false&width=800&height=150&lines=%F0%9F%8C%9FI'm+Web+Developer;I'm+currently+phishing+url+detection.;I'm+looking+to+collaborate+on+exciting+projects.%F0%9F%A4%A9;I'm+currently+learning+Flutter.%F0%9F%98%8E+%E2%9C%A8" alt="Typing SVG" /></a></p>
 <hr>
 <br>
 
