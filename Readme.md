@@ -31,3 +31,4 @@
 [![](https://visitcount.itsvg.in/api?id=SnakeEyes23&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![An image of @snakeeyes23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snakeeyes23)](https://holopin.io/@snakeeyes23)
