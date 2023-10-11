@@ -1,4 +1,4 @@
-<p><img align="left" src=""lefts.gif
+<p><img align="left" src="lefts.gif"
     width="20%" style="display:inline;">
 <img align="right" src="rights.gif"
     width="20.5%" style="display:inline;">
