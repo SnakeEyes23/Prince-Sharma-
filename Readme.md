@@ -29,7 +29,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SnakeEyes23&icon=0&color=0)](https://visitcount.itsvg.in)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e6e7208b-0a3e-4041-b85f-807e5bbb90c9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![An image of @snakeeyes23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snakeeyes23)](https://holopin.io/@snakeeyes23)
