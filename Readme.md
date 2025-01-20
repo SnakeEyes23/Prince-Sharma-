@@ -2,7 +2,7 @@
     width="20%" style="display:inline;">
 <img align="right" src="rights.gif"
     width="20.5%" style="display:inline;">
-<br>
+
 </p>
 <p align="center">
 <h1 align="center">Hi,I'm Prince Sharma</h1>
@@ -10,9 +10,8 @@
 
 <p align="center">
 <hr> &emsp;&emsp;
-<a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=1000&color=C0188A&vCenter=true&multiline=true&random=false&width=800&height=150&lines=%F0%9F%8C%9FI'm+Web+Developer.;I'm+currently+working+on+phishing+url+detection+🐟.;I'm+looking+to+collaborate+on+exciting+projects.%F0%9F%A4%A9;.%F0%9F%98%8E+%E2%9C%A8" alt="Typing SVG" /></a></p>
+<a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&duration=1000&color=C0188A&vCenter=true&multiline=true&random=false&width=800&height=150&lines=%F0%9F%8C%9FI'm+Web+Developer.;I'm+currently+working+on+phishing+url+detection+🐟.;I'm+looking+to+collaborate+on+exciting+projects.%F0%9F%A4%A9;" alt="Typing SVG" /></a></p>
 <hr>
-<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prince_sharma_.23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
